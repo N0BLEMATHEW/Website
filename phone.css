@@ -1,0 +1,170 @@
+html, body {
+  overflow-x: hidden;
+    
+}
+html{
+    background-color: black;
+}
+
+
+
+    #about{
+        width:530px;
+    }
+.headings{
+    font-size: 1.7rem;
+}
+#pic img{
+    width:175px;
+    height: 175px;
+    margin-right: 100px
+}
+#intro h2{
+    font-size: 1.5rem;
+}
+.input{
+    width: 80%;
+}
+#msg{
+    width: 70%;
+}
+
+#contact{
+width: 530px;
+}
+#contact input{
+    align-self: flex-start;
+    width: 320px;
+}
+#contact textarea{
+    align-self: flex-start;
+    width: 320px;
+}
+#send{
+    max-width: 100px;
+}
+.headings{
+    align-self: flex-start;
+    
+   
+}
+.navbar ul{
+  width: 100%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+    
+}
+
+.navbar ul li a{
+  display: block;
+  color: white;
+  text-align: center;
+  margin: 10px;
+  padding: 20px;
+  text-decoration: none;
+}   
+#home p{
+    margin-left: 10px;
+    font-size:24px;
+    height: 100px;
+    width: 100%;
+    align-self: flex-start
+}
+#home h1{
+    margin-left: 100px;
+   
+}
+#home button{
+    margin-top: 50px;
+}
+.headingabout{
+    margin-right: 100px
+}
+#about h2{
+    margin-right: 100px
+    
+}
+#about p{
+    font-size: 20px;
+    text-align: left;
+    width: 300px;
+    margin-right: 100px;
+}
+#education{
+    width: 530px;
+    
+}
+.lefter{
+    margin-left: 5px;
+}
+.lefter h3{
+    width: 200px;
+}
+.lefter p{
+    width: 200px
+}
+#education{
+    margin-left:10px;
+}
+.edsk{
+    display: list-item;
+    list-style-type: none;
+}
+#skills{
+    margin-top: 20px;
+    margin-left: 10px
+}
+.sill .percent{
+    width: 300px;
+}
+#education h1{
+    margin-left: 10px;
+    margin-right: 100px
+}
+.experienceandcap{
+    display: list-item;
+    list-style-type: none;
+}
+.righter{
+    margin-left: 10px;
+}
+.righter h3{
+    width: 300px;
+}
+.righter li{
+    width: 300px;
+}
+
+#pic{
+    margin-left: 10px;
+    display: list-item;
+    list-style-type: none;
+    border: rgba(0,0,0,0.5)
+}
+#pic img{
+    
+
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+#intro{
+    width:100%;
+    display: li;
+    flex-direction: column;
+    text-align: justify;
+    padding: 10px;
+    color: black;
+
+    
+    
+}
+
+
+
+
+
+ 
